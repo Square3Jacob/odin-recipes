@@ -10,7 +10,7 @@
     height: auto;
 }
 
-ul.list {
+ul, .list {
     margin-left: 200px;
     margin-right: 200px;
     display: inline-block;
