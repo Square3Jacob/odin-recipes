@@ -1,9 +1,27 @@
 * {
     background-color: black;
     color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .images {
-    width: 300px;
+    width: 600px;
     height: auto;
+}
+
+ul.list {
+    margin-left: 200px;
+    margin-right: 200px;
+    display: inline-block;
+    list-style-position: inside;
+}
+
+p {
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.link {
+    color: rgb(99, 177, 99);
 }
