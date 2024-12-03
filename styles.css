@@ -1,8 +1,8 @@
 * {
-    background-color: black;
-    color: white;
-    text-align: center;
+    background-color: rgb(50, 0, 0);
+    color: rgb(255, 253, 208);
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 .images {
@@ -11,13 +11,14 @@
 }
 
 ul, .list {
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
     display: inline-block;
     list-style-position: inside;
 }
 
 p {
+    color: rgb(192, 236, 255);
     padding-left: 400px;
     padding-right: 400px;
 }
