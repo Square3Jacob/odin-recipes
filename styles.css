@@ -8,6 +8,7 @@
 }
 
 .images {
+    max-width: 600px;
     padding: 20px;
     display: block;
 }
@@ -27,12 +28,20 @@ p {
     text-align: center;
 }
 
-.link {
+.links {
     padding-top: 20px;
     padding-bottom: 10px;
-    color: rgb(99, 177, 99);
-    display: block;
     text-align: center;
+}
+
+.homepage {
+    height: auto;
+    width: 300px;
+    display: inline-block;
+}
+
+.link {
+    color: rgb(99, 177, 99);
 }
 
 .header {
