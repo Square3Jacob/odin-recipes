@@ -5,6 +5,7 @@
     box-sizing: border-box;
     max-width: 600px;
     margin: 0 auto;
+    outline: 2px solid red;
 }
 
 .images {
@@ -30,6 +31,8 @@ p {
     padding-top: 20px;
     padding-bottom: 10px;
     color: rgb(99, 177, 99);
+    display: block;
+    text-align: center;
 }
 
 .header {
