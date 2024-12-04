@@ -3,12 +3,13 @@
     color: rgb(255, 253, 208);
     font-family: 'Courier New', Courier, monospace;
     box-sizing: border-box;
-    max-width: 600px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
 .images {
     padding: 20px;
+    display: block;
 }
 
 ul, .list {
