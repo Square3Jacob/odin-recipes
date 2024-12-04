@@ -2,27 +2,37 @@
     background-color: rgb(50, 0, 0);
     color: rgb(255, 253, 208);
     font-family: 'Courier New', Courier, monospace;
-    text-align: center;
+    box-sizing: border-box;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 .images {
-    width: 600px;
-    height: auto;
+    padding: 20px;
 }
 
 ul, .list {
-    margin-left: 200px;
-    margin-right: 200px;
-    display: inline-block;
-    list-style-position: inside;
+    width: 400px;
+}
+
+.measurements {
+    border-style: dashed;
+    border-color: rgba(255, 248, 117, 0.804);
 }
 
 p {
+    padding: 20px;
     color: rgb(192, 236, 255);
-    padding-left: 400px;
-    padding-right: 400px;
+    text-align: center;
 }
 
 .link {
+    padding-top: 20px;
+    padding-bottom: 10px;
     color: rgb(99, 177, 99);
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
 }
